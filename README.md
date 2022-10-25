@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Movie Finder
 
 Live Demo: [Movie Finder](https://movie-finder-db.netlify.app)
+
+## Description
+
+Search from thousands of movies and tv shows from the open movie database. View movie information and images from search results.
+
+## Built With
+
+ReactJS, JavaScript, HTML, CSS, npm
+
+## Using OMDb API
+
+This app fetches information from The Open Movie Database with the [OMDb API](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/).
+
+## Deployed with Netlify
+
+Website was deployed with [Netlify](https://netlify.com).
+
+## Made with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
