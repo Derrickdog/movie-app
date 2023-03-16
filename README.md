@@ -5,6 +5,7 @@ Live Demo: [Movie Finder](https://movie-finder-db.netlify.app)
 ## Description
 
 Search from thousands of movies and tv shows from the open movie database. View movie information and images from search results.
+![Screen Shot 2023-03-16 at 9 05 03 AM](https://user-images.githubusercontent.com/105069540/225626016-107f37a5-5511-4f54-ba4b-4a4ef338da74.png)
 
 ## Built With
 
